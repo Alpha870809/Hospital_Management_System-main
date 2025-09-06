@@ -2,9 +2,7 @@
 
 **Team:**
 
-Adarsh Ninganur
-
-Aryan Prasad
+Aman kumar
 
 **Project Statement:**
 
