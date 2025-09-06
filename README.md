@@ -1,6 +1,6 @@
 # Hospital Management System
 
-**Team:**
+**Name:**
 
 Aman kumar
 
